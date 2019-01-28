@@ -1,1 +1,17 @@
 theme: jekyll-theme-minimal
+
+title: "mulle-concurrent"
+description: "C libraries for concurrent programming (threads, atomics) based on mulle-c."
+logo: 'https://avatars1.githubusercontent.com/u/43937304?s=256'
+show_downloads: false
+
+
+highlighter: rouge
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
